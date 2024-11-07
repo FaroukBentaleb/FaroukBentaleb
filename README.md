@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/farouk-bentaleb-298812236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farouk bentaleb" height="30" width="40" /></a>
-<a href="https://fb.com/farouk bentaleb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="farouk bentaleb" height="30" width="40" /></a>
+<a href="https://www.facebook.com/farouk.bentaleb.90/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="farouk bentaleb" height="30" width="40" /></a>
 <a href="https://instagram.com/farouk bentaleb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farouk bentaleb" height="30" width="40" /></a>
 </p>
 
