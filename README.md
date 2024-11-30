@@ -92,5 +92,5 @@ A 2D mystery-adventure game developed with **SDL C**.
 
 ### 📜 **Credit**
 
-Credit: [Farouk Bentaleb](https://github.com/FaroukBentaleb)  
+Credit: [Farouk Bentaleb](https://github.com/Farouk170)  
 Last Edited on: 29/11/2024
