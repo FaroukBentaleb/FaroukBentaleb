@@ -49,13 +49,17 @@ A job-seeking platform tailored for Tunisia. Features include:
 - Profile customization and CV creation.
 - Interview scheduling and problem resolution systems.
 
-#### 2. Quality Control System for Mechanical Parts  
-- Built with PIC16F877, LEDs, sensors, and a buzzer.
-- Displays part quality on 7-segment displays and an LCD.
-- Includes full C programming and ISIS assembly.
+#### 2. **ReEarth**  
+A smart recycling center desktop application developed using **Qt C++**.  
+- Automates sorting and management of recyclable materials.  
+- Tracks data for waste management and environmental monitoring.  
+- User-friendly interface for administrators.
 
-#### 3. [TeachTrack](https://github.com/Farouk170/TeachTrack)  
-A mobile app for students to manage tasks, prepare for exams, and organize daily life.
+#### 3. **SMEDS** (*Shadow Manuscript Esprit Dark Secret*)  
+A 2D mystery-adventure game developed with **SDL C**.  
+- Immersive story and puzzle-solving gameplay.  
+- Dynamic environments with interactive shadow mechanics.  
+- Built from scratch with a focus on creative design.
 
 ---
 
