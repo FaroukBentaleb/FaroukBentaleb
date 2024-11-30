@@ -74,8 +74,8 @@ A mobile app for students to manage tasks, prepare for exams, and organize daily
 ### 🌐 **Connect with Me**
 
 <p align="center">
-  <a href="mailto:farouk.bentaleb@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/farouk-bentaleb/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:farouk.bentaleb@esprit.tn"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/farouk-bentaleb-298812236"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Farouk170"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
@@ -83,19 +83,6 @@ A mobile app for students to manage tasks, prepare for exams, and organize daily
 
 ### 💡 **Random Dev Quote**
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### 🚀 **Projects**
-
-#### Featured Projects
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FaroukBentaleb&repo=5adamni&theme=react)](https://github.com/FaroukBentaleb/5adamni)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FaroukBentaleb&repo=TeachTrack&theme=react)](https://github.com/FaroukBentaleb/TeachTrack)
-
-#### Additional Projects
-- **Quality Control System for Mechanical Parts**: Developed with a PIC16F877 microcontroller for real-time monitoring.
-- **FlutterFlow E-Commerce App** *(Personal Project)*: Small e-commerce prototype adapted for the Tunisian market.
 
 ---
 
