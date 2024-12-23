@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hey, I'm Farouk Bentaleb</b></h1>
+<h1 align="center"><b>Hey, I'm Farouk Bentaleb</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -22,10 +22,10 @@
 
 ---
 
-### 🛠️ **Tech Stack**
+### 🛠️ **Skills**
 
 #### Languages
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
