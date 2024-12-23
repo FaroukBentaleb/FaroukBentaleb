@@ -46,7 +46,7 @@
 
 ### 🚀 **Projects**
 
-#### 1. [5adamni](https://github.com/Farouk170/5adamni)  
+#### 1. [5adamni](https://github.com/Farouk-b-t/5adamni)  
 A job-seeking platform tailored for Tunisia. Features include:  
 - Job search, chatbot, and community chat.
 - Profile customization and CV creation.
@@ -69,11 +69,11 @@ A 2D mystery-adventure game developed with **SDL C**.
 ### 📊 **GitHub Stats**
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Farouk170&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Farouk170&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Farouk-b-t&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Farouk-b-t&theme=radical" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Farouk170&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Farouk-b-t&theme=react-dark" />
 </p>
 
 ---
@@ -83,7 +83,7 @@ A 2D mystery-adventure game developed with **SDL C**.
 <p align="center">
   <a href="mailto:farouk.bentaleb@esprit.tn"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/farouk-bentaleb-298812236"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Farouk170"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/Farouk-b-t"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
@@ -95,5 +95,5 @@ A 2D mystery-adventure game developed with **SDL C**.
 
 ### 📜 **Credit**
 
-Credit: [Farouk Bentaleb](https://github.com/Farouk170)  
+Credit: [Farouk Bentaleb](https://github.com/Farouk-b-t)  
 Last Edited on: 29/11/2024
