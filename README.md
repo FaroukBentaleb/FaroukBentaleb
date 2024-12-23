@@ -21,7 +21,7 @@
 - 🏆 Participated in **Bal des Projets** with the “5adamni” Job-Seeking Platform.
 - ⚡ Fun fact: I love gaming, anime, and playing football with friends.
 
----
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ### 🛠️ **Skills**
 
@@ -43,7 +43,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ### 🚀 **Projects**
 
@@ -65,7 +65,7 @@ A 2D mystery-adventure game developed with **SDL C**.
 - Dynamic environments with interactive shadow mechanics.  
 - Built from scratch with a focus on creative design.
 
----
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ### 📊 **GitHub Stats**
 
@@ -77,7 +77,7 @@ A 2D mystery-adventure game developed with **SDL C**.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Farouk-b-t&theme=react-dark" />
 </p>
 
----
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ### 🌐 **Connect with Me**
 
@@ -87,12 +87,12 @@ A 2D mystery-adventure game developed with **SDL C**.
   <a href="https://github.com/Farouk-b-t"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
----
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ### 💡 **Random Dev Quote**
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ### 📜 **Credit**
 
