@@ -44,7 +44,7 @@
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-### 🚀 **Projects**
+### 🚀<b>Projects</b>
 
 #### 1. [5adamni](https://github.com/Farouk-b-t/5adamni)  
 A job-seeking platform tailored for Tunisia. Features include:  
