@@ -52,13 +52,13 @@ A job-seeking platform tailored for Tunisia. Features include:
 - Profile customization and CV creation.
 - Interview scheduling and problem resolution systems.
 
-#### 2. **ReEarth**  
+#### 2. [ReEarth](https://github.com/Farouk-b-t/ReEarth)  
 A smart recycling center desktop application developed using **Qt C++**.  
 - Automates sorting and management of recyclable materials.  
 - Tracks data for waste management and environmental monitoring.  
 - User-friendly interface for administrators.
 
-#### 3. **SMEDS** (*Shadow Manuscript Esprit Dark Secret*)  
+#### 3. [SMEDS (*Shadow Manuscript Esprit Dark Secret*)](https://github.com/Farouk-b-t/SMEDS-2D-game)  
 A 2D mystery-adventure game developed with **SDL C**.  
 - Immersive story and puzzle-solving gameplay.  
 - Dynamic environments with interactive shadow mechanics.  
