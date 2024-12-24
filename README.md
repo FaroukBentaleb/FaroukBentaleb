@@ -43,7 +43,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWFhZXJjN2ZoeDA1d2JuYW5wc2p3OXBmMG5nZzByYWI3NGh3N3luciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/b6a0m1gdXbcQGJ3xiw/giphy.gif" width="35"><b> Projects </b>
+## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFqMXFybTU2cDYxM2p1anB4ZTBrZDRmN2d1NHJld25qeWZwbmh3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jVxfVwR48hbpbsqjfb/giphy.gif" width="35"><b> Projects </b>
 #### 1. [5adamni](https://github.com/Farouk-b-t/5adamni)  
 A job-seeking platform tailored for Tunisia. Features include:  
 - Job search, chatbot, and community chat.
