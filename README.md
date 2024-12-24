@@ -45,7 +45,7 @@
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ### 🚀<b></b>
-## <img src="https://giphy.com/stickers/TheHomeDepotCanada-painting-paint-roller-project-nAEBKcdDTfUVvzGaAN/giphy.gif" width="35"><b> Projects </b>
+## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBxbm1mdTh1MDN1anMzMjlub3MzbTFnamM0cTh0Z2hrN2E3bnhhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nAEBKcdDTfUVvzGaAN/giphy.gif" width="35"><b> Projects </b>
 #### 1. [5adamni](https://github.com/Farouk-b-t/5adamni)  
 A job-seeking platform tailored for Tunisia. Features include:  
 - Job search, chatbot, and community chat.
