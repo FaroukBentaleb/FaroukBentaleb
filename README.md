@@ -44,19 +44,19 @@
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZ1Zmk1bTU2OWdoNmFpdGZzMXlzdzBrcXo3OG9lZ3B6bGN0MnhnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vxnOeDgpwsOAPF7e7A/giphy.gif" width="25"><b> Projects </b>
-#### 1. [5adamni](https://github.com/Farouk-b-t/5adamni)  
+#### 1. [5adamni](https://github.com/FaroukBentaleb/5adamni)  
 A job-seeking platform tailored for Tunisia. Features include:  
 - Job search, chatbot, and community chat.
 - Profile customization and CV creation.
 - Interview scheduling and problem resolution systems.
 
-#### 2. [ReEarth](https://github.com/Farouk-b-t/ReEarth)  
+#### 2. [ReEarth](https://github.com/FaroukBentaleb/ReEarth)  
 A smart recycling center desktop application developed using **Qt C++**.  
 - Automates sorting and management of recyclable materials.  
 - Tracks data for waste management and environmental monitoring.  
 - User-friendly interface for administrators.
 
-#### 3. [SMEDS (*Shadow Manuscript Esprit Dark Secret*)](https://github.com/Farouk-b-t/SMEDS-2D-game)  
+#### 3. [SMEDS (*Shadow Manuscript Esprit Dark Secret*)](https://github.com/FaroukBentaleb/SMEDS-2D-game)  
 A 2D mystery-adventure game developed with **SDL C**.  
 - Immersive story and puzzle-solving gameplay.  
 - Dynamic environments with interactive shadow mechanics.  
@@ -68,11 +68,11 @@ A 2D mystery-adventure game developed with **SDL C**.
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Farouk-b-t&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Farouk-b-t&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FaroukBentaleb&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=FaroukBentaleb&theme=radical" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Farouk-b-t&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaroukBentaleb&theme=react-dark" />
 </p>
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -81,7 +81,7 @@ A 2D mystery-adventure game developed with **SDL C**.
 <p align="center">
   <a href="mailto:farouk.bentaleb@esprit.tn"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/farouk-bentaleb-298812236"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Farouk-b-t"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/FaroukBentaleb"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -93,8 +93,8 @@ A 2D mystery-adventure game developed with **SDL C**.
 
 ## <img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width ="25"><b> Trophies</b>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Farouk-b-t&theme=nord&column=7)](https://github.com/Naderab/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=FaroukBentaleb&theme=nord&column=7)](https://github.com/Naderab/github-profile-trophy)
 ### 📜 **Credit**
 
-Credit: [Farouk Bentaleb](https://github.com/Farouk-b-t)  
+Credit: [Farouk Bentaleb](https://github.com/FaroukBentaleb)  
 Last Edited on: 29/11/2024
