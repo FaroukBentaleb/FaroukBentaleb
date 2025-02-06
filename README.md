@@ -10,7 +10,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
+<img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTA0YWtmbjNrcnM4aHVxcGRzYjd1eTZpa3U0M2Y3MDBwMW5hb3RxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
 
 ### 🙋‍♂️ **About Me**
 
