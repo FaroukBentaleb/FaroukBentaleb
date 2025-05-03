@@ -15,10 +15,10 @@
 ### 🙋‍♂️ **About Me**
 
 - 🔭 I’m currently working on **FlutterFlow Mobile Apps** and **Web Development Projects**.
-- 🌱 I’m learning **Dart, Flutter**, and **Advanced Backend Systems**.
+- 🌱 I’m learning **Flutter**, and **Advanced Backend Systems**.
 - 👨‍🎓 I’m pursuing an **IT Engineering degree** at [ESPRIT](https://esprit.tn).
 - 💬 Ask me about **Web Development**, **Networking**, and **IT Security**.
-- 🏆 Participated in **Bal des Projets** with the “5adamni” Job-Seeking Platform.
+- 🏆 Participated in **"Bal des Projets"** with the “5adamni” Job-Seeking Platform.
 - ⚡ Fun fact: I love gaming, anime, and playing football with friends.
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
