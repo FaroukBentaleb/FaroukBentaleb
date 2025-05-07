@@ -43,19 +43,28 @@
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZ1Zmk1bTU2OWdoNmFpdGZzMXlzdzBrcXo3OG9lZ3B6bGN0MnhnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vxnOeDgpwsOAPF7e7A/giphy.gif" width="25"><b> Projects </b>
-#### 1. [5adamni](https://github.com/FaroukBentaleb/5adamni)  
+#### 1. [Learniverse](https://github.com/FaroukBentaleb/Learniverse)  
+A secure, cross-platform e-learning platform for students and teachers. Key features include:
+- Robust authentication system with secure login/signup, two-factor authentication, and OAuth integration (Google/GitHub).
+- Advanced session management with device, location, and IP tracking, plus remote session termination.
+- Password recovery workflow using email verification and automated account lockout after multiple failed attempts.
+- Administrative tools for user moderation, including complaint-based banning mechanisms.
+- Interactive forums and structured complaint submission system for technical and content-related issues.
+- Developed as a cross-platform solution using Symfony (web), JavaFX (desktop), and FlutterFlow (mobile).
+
+#### 2. [5adamni](https://github.com/FaroukBentaleb/5adamni)  
 A job-seeking platform tailored for Tunisia. Features include:  
 - Job search, chatbot, and community chat.
 - Profile customization and CV creation.
 - Interview scheduling and problem resolution systems.
 
-#### 2. [ReEarth](https://github.com/FaroukBentaleb/ReEarth)  
+#### 3. [ReEarth](https://github.com/FaroukBentaleb/ReEarth)  
 A smart recycling center desktop application developed using **Qt C++**.  
 - Automates sorting and management of recyclable materials.  
 - Tracks data for waste management and environmental monitoring.  
 - User-friendly interface for administrators.
 
-#### 3. [SMEDS (*Shadow Manuscript Esprit Dark Secret*)](https://github.com/FaroukBentaleb/SMEDS-2D-game)  
+#### 4. [SMEDS (*Shadow Manuscript Esprit Dark Secret*)](https://github.com/FaroukBentaleb/SMEDS-2D-game)  
 A 2D mystery-adventure game developed with **SDL C**.  
 - Immersive story and puzzle-solving gameplay.  
 - Dynamic environments with interactive shadow mechanics.  
