@@ -43,7 +43,7 @@
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZ1Zmk1bTU2OWdoNmFpdGZzMXlzdzBrcXo3OG9lZ3B6bGN0MnhnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vxnOeDgpwsOAPF7e7A/giphy.gif" width="25"><b> Projects </b>
-#### 1. [Learniverse](https://github.com/FaroukBentaleb/Learniverse)  
+#### 1. [Learniverse - Competitive E-Lerning Platform](https://github.com/FaroukBentaleb/Learniverse)  
 A secure, cross-platform e-learning platform for students and teachers. Key features include:
 - Robust authentication system with secure login/signup, two-factor authentication, and OAuth integration (Google/GitHub).
 - Advanced session management with device, location, and IP tracking, plus remote session termination.
@@ -52,13 +52,13 @@ A secure, cross-platform e-learning platform for students and teachers. Key feat
 - Interactive forums and structured complaint submission system for technical and content-related issues.
 - Developed as a cross-platform solution using Symfony (web), JavaFX (desktop), and FlutterFlow (mobile).
 
-#### 2. [5adamni](https://github.com/FaroukBentaleb/5adamni)  
+#### 2. [5adamni - Job Finder Website](https://github.com/FaroukBentaleb/5adamni)  
 A job-seeking platform tailored for Tunisia. Features include:  
 - Job search, chatbot, and community chat.
 - Profile customization and CV creation.
 - Interview scheduling and problem resolution systems.
 
-#### 3. [ReEarth](https://github.com/FaroukBentaleb/ReEarth)  
+#### 3. [ReEarth - Smart Recycling Center](https://github.com/FaroukBentaleb/ReEarth)  
 A smart recycling center desktop application developed using **Qt C++**.  
 - Automates sorting and management of recyclable materials.  
 - Tracks data for waste management and environmental monitoring.  
