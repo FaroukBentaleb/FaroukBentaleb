@@ -135,7 +135,7 @@ A full-stack enterprise platform for English language schools built using Spring
 
 ---
 
-#### 4. DevAssist Hub – AI for Software Engineering
+#### 4. DevAssist Hub – AI for Software Engineering (team ByteQuest)
 A web platform for developers with five AI-powered modules (commits, code snippets, bug reports, SQL queries, code reviews), one module per team member. I built the **Commits** module.
 
 **Key Features:**
@@ -206,18 +206,19 @@ A 2D mystery-adventure game developed with **SDL C**.
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FaroukBentaleb&show_icons=true&theme=radical" />
+  <img width="48%" src="./profile-summary-card-output/radical/3-stats.svg" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=FaroukBentaleb&theme=radical" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaroukBentaleb&theme=react-dark" />
+  <img width="48%" src="./profile-summary-card-output/radical/1-repos-per-language.svg" />
+  <img width="48%" src="./profile-summary-card-output/radical/2-most-commit-language.svg" />
 </p>
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ### 🌐 **Connect with Me**
 
 <p align="center">
-  <a href="mailto:farouk.bentaleb@esprit.tn"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:farouk.bentaleb@outlook.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/farouk-bentaleb"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/FaroukBentaleb"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://faroukbentaleb.me"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
@@ -230,9 +231,6 @@ A 2D mystery-adventure game developed with **SDL C**.
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width ="25"><b> Trophies</b>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=FaroukBentaleb&theme=nord&column=7)](https://github.com/Naderab/github-profile-trophy)
 ### 📜 **Credit**
 
 Credit: [Farouk Ben Taleb](https://github.com/FaroukBentaleb)  
